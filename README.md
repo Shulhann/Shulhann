@@ -5,6 +5,8 @@ My name is **Muhammad Shulhan**.<br>
 I am currrently student at **Bandung Institute of Technology**.<br>
 
 You can find more about my self at [Linkedin](www.linkedin.com/in/muhammad-shulhan-238945221).
+
+[Linkedin](https://www.linkedin.com/in/gilang-adhan/)
  
 ### Github Statistic
 <p align="left">
