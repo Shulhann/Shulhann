@@ -1,8 +1,6 @@
 ## Hi there 👋
  
 My name is **Muhammad Shulhan**.<br>
- 
-I am currrently student at **Bandung Institute of Technology**.<br>
 
 You can find more about my self at [Linkedin](https://www.linkedin.com/in/muhammad-shulhan-238945221).
  
